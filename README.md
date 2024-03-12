@@ -1,6 +1,9 @@
 # Aria: Whispers of Darkness
 In the eerie village of Grimhaven, shrouded in perpetual mist and shadows, Aria's journey begins. 
 
+# Game Trailer
+https://drive.google.com/file/d/1NUd4qAZZ_Pzl2t_thcmaB2Bnur2KFO4k/view?usp=drive_link
+
 # Milestone 4
 Below is the documentation for our `README.md` submission for Milestone 4.
 
